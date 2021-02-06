@@ -105,3 +105,53 @@
 10/25/2020, 9:59:02 PM::undefined::::1::POST::/::{"content":"otro tweet"} 
 10/25/2020, 11:14:02 PM::5f964cd737448d103bef91fa::::1::POST::/::{"content":"con nombre de usuario"} 
 10/25/2020, 11:16:53 PM::5f964cd737448d103bef91fa::::1::POST::/::{"content":"este es el primer tweet"} 
+1/12/2021, 8:12:36 PM::5ffe48cbd09fcc1a49588fb2::::1::GET::/::{} 
+1/12/2021, 8:18:04 PM::5ffe48cbd09fcc1a49588fb2::::1::POST::/::{"content":"Tweet del 2021 con mongo atlas"} 
+1/13/2021, 3:41:06 PM::5fff5abf2734c208f6a26bc2::::1::GET::/::{} 
+1/13/2021, 3:41:32 PM::5fff5abf2734c208f6a26bc2::::1::POST::/::{"content":"Tweet del 2021 Mongodb LOCAL"} 
+1/19/2021, 6:27:40 PM::6007693c7c409026d40ad439::::1::GET::/::{} 
+1/25/2021, 7:42:41 PM::6007693c7c409026d40ad439::::1::POST::/::{"content":"prueba"} 
+1/26/2021, 7:11:29 PM::6007693c7c409026d40ad439::::1::POST::/::{"content":"es 26 de enero"} 
+1/26/2021, 7:15:40 PM::6007693c7c409026d40ad439::::1::POST::/::{"content":"tweet con axios"} 
+1/28/2021, 5:22:54 PM::6010b8898598e6234a08a869::::1::POST::/::{"content":"otro dia "} 
+1/30/2021, 11:29:49 AM::601572abf6476e1e73f2aff2::::1::PUT::/jefry29::{} 
+1/30/2021, 11:35:30 AM::601572abf6476e1e73f2aff2::::1::PUT::/jefry29::{} 
+1/30/2021, 11:43:34 AM::60158c939465af654af90ee7::::1::GET::/::{} 
+1/30/2021, 11:43:59 AM::60158c939465af654af90ee7::::1::PUT::/jefry02::{"name":"KATERINE","email":"miche@gmail.com"} 
+1/30/2021, 11:44:36 AM::60158c939465af654af90ee7::::1::PUT::/miche25::{"name":"KATERINE","email":"miche@gmail.com"} 
+1/30/2021, 11:48:05 AM::60158c939465af654af90ee7::::1::PUT::/miche25::{"name":"KATERINE RAMOS","email":"miche@gmail.com"} 
+1/30/2021, 11:48:50 AM::60158c939465af654af90ee7::::1::PUT::/miche25::{"name":"KATERINE RAMOS","email":"miche@gmail.com"} 
+1/30/2021, 11:51:51 AM::601572abf6476e1e73f2aff2::::1::PUT::/jefry29::{} 
+1/30/2021, 11:55:15 AM::60158c939465af654af90ee7::::1::PUT::/miche25::{"name":"KAThERINE RAMOS","email":"micdhe@gmail.com"} 
+1/30/2021, 11:55:24 AM::60158c939465af654af90ee7::::1::PUT::/miche25::{"name":"KAThERINE RAMOS","email":"micdhe@gmail.com"} 
+1/30/2021, 11:59:37 AM::601572abf6476e1e73f2aff2::::1::PUT::/jefry29::{} 
+1/30/2021, 12:07:54 PM::601572abf6476e1e73f2aff2::::1::PUT::/undefined::{} 
+1/30/2021, 12:12:38 PM::6015936bf3b42a74a33a7a54::::1::PUT::/undefined::{} 
+1/30/2021, 12:17:16 PM::6015936bf3b42a74a33a7a54::::1::PUT::/jefry29::{"name":"Michel ","email":"jke@gmail.com"} 
+1/30/2021, 12:20:53 PM::6015936bf3b42a74a33a7a54::::1::PUT::/undefined::{} 
+1/30/2021, 12:21:51 PM::60158c939465af654af90ee7::::1::PUT::/miche2::{"name":"KAThERINE RAMOS","email":"micdhe@gmail.com"} 
+1/30/2021, 12:21:59 PM::60158c939465af654af90ee7::::1::PUT::/mic::{"name":"KAThERINE RAMOS","email":"micdhe@gmail.com"} 
+1/30/2021, 12:23:08 PM::60158c939465af654af90ee7::::1::PUT::/mic::{"name":"KAThERINE RAMOS","email":"micdhe@gmail.com"} 
+1/30/2021, 12:23:27 PM::60158c939465af654af90ee7::::1::PUT::/mic::{"name":"nombre","email":"micdhe@gmail.com"} 
+1/30/2021, 12:24:41 PM::60158c939465af654af90ee7::::1::PUT::/miche25::{"name":"OTro nombre","email":"jki@gmail.com"} 
+1/30/2021, 12:24:48 PM::60158c939465af654af90ee7::::1::PUT::/miche25::{"name":"OTro nombre","email":"jki@gmail.com"} 
+1/30/2021, 12:25:12 PM::60158c939465af654af90ee7::::1::PUT::/ppp::{"name":"Segundo nombre","email":"jddd@gmail.com"} 
+1/30/2021, 12:30:22 PM::60158c939465af654af90ee7::::1::PUT::/Miche25::{"name":"Segundo nombre","email":"jddd@gmail.com"} 
+1/30/2021, 12:30:28 PM::60158c939465af654af90ee7::::1::PUT::/Miche25::{"name":"Segundo nombre","email":"jddd@gmail.com"} 
+1/30/2021, 12:31:08 PM::6015936bf3b42a74a33a7a54::::1::PUT::/undefined::{} 
+2/2/2021, 8:00:21 PM::6015936bf3b42a74a33a7a54::::1::POST::/likes::{"id":"6013393e861a5b044650bd0c"} 
+2/2/2021, 8:00:21 PM::6015936bf3b42a74a33a7a54::::1::POST::/likes::{"id":"6013393e861a5b044650bd0c"} 
+2/2/2021, 8:00:22 PM::6015936bf3b42a74a33a7a54::::1::POST::/likes::{"id":"6013393e861a5b044650bd0c"} 
+2/2/2021, 8:00:23 PM::6015936bf3b42a74a33a7a54::::1::POST::/likes::{"id":"6010b0ac8598e6234a08a867"} 
+2/2/2021, 8:02:49 PM::6015936bf3b42a74a33a7a54::::1::POST::/likes::{"id":"6013393e861a5b044650bd0c"} 
+2/2/2021, 8:02:50 PM::6015936bf3b42a74a33a7a54::::1::POST::/likes::{"id":"6013393e861a5b044650bd0c"} 
+2/2/2021, 8:02:56 PM::6015936bf3b42a74a33a7a54::::1::POST::/likes::{"id":"6010b0ac8598e6234a08a867"} 
+2/2/2021, 8:02:58 PM::6015936bf3b42a74a33a7a54::::1::POST::/likes::{"id":"6010afb18598e6234a08a866"} 
+2/2/2021, 8:15:00 PM::601572abf6476e1e73f2aff2::::1::POST::/::{"content":"creemos un tweet con otro usuario"} 
+2/2/2021, 8:15:14 PM::6015936bf3b42a74a33a7a54::::1::POST::/::{"content":"otro"} 
+2/2/2021, 8:15:19 PM::6015936bf3b42a74a33a7a54::::1::POST::/likes::{"id":"6019f9223eb77252f461ef92"} 
+2/2/2021, 8:15:21 PM::6015936bf3b42a74a33a7a54::::1::POST::/likes::{"id":"6019f9223eb77252f461ef92"} 
+2/2/2021, 8:15:22 PM::6015936bf3b42a74a33a7a54::::1::POST::/likes::{"id":"6019f9223eb77252f461ef92"} 
+2/4/2021, 9:03:14 PM::6015936bf3b42a74a33a7a54::::1::POST::/likes::{"id":"6019f9223eb77252f461ef92"} 
+2/5/2021, 3:21:39 PM::6015936bf3b42a74a33a7a54::::1::POST::/comments::{"id":"6019f9223eb77252f461ef92","comment":"Mi  primer comentario"} 
+2/5/2021, 3:30:08 PM::60158c939465af654af90ee7::::1::GET::/::{} 
