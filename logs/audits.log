@@ -155,3 +155,33 @@
 2/4/2021, 9:03:14 PM::6015936bf3b42a74a33a7a54::::1::POST::/likes::{"id":"6019f9223eb77252f461ef92"} 
 2/5/2021, 3:21:39 PM::6015936bf3b42a74a33a7a54::::1::POST::/comments::{"id":"6019f9223eb77252f461ef92","comment":"Mi  primer comentario"} 
 2/5/2021, 3:30:08 PM::60158c939465af654af90ee7::::1::GET::/::{} 
+2/5/2021, 10:28:50 PM::60158c939465af654af90ee7::::1::PUT::/Miche25::{"name":"Michelle Vasquez","email":"jddd@gmail.com"} 
+2/5/2021, 10:28:52 PM::60158c939465af654af90ee7::::1::PUT::/Miche25::{"name":"Michelle Vasquez","email":"jddd@gmail.com"} 
+2/5/2021, 10:54:22 PM::6015936bf3b42a74a33a7a54::::1::PUT::/Jefry78::{} 
+2/5/2021, 11:12:40 PM::60158c939465af654af90ee7::::1::PUT::/Miche25::{"name":"Michelle Vasquez","email":"jddd@gmail.com"} 
+2/5/2021, 11:13:07 PM::60158c939465af654af90ee7::::1::PUT::/Miche25::{"name":"Jefferson","email":"jddd@gmail.com"} 
+2/5/2021, 11:13:08 PM::60158c939465af654af90ee7::::1::PUT::/Miche25::{"name":"Jefferson","email":"jddd@gmail.com"} 
+2/5/2021, 11:15:11 PM::6015936bf3b42a74a33a7a54::::1::PUT::/Jefry78::{} 
+2/5/2021, 11:19:40 PM::6015936bf3b42a74a33a7a54::::1::PUT::/Jefry78::{} 
+2/5/2021, 11:26:14 PM::6015936bf3b42a74a33a7a54::::1::PUT::/Jefry78::{"name":"jefferson"} 
+2/5/2021, 11:30:44 PM::6015936bf3b42a74a33a7a54::::1::PUT::/Jefry78::{} 
+2/5/2021, 11:32:58 PM::6015936bf3b42a74a33a7a54::::1::PUT::/Jefry78::{} 
+2/5/2021, 11:33:10 PM::6015936bf3b42a74a33a7a54::::1::PUT::/Jefry78::{} 
+2/5/2021, 11:33:38 PM::6015936bf3b42a74a33a7a54::::1::PUT::/Jefry78::{} 
+2/5/2021, 11:33:45 PM::6015936bf3b42a74a33a7a54::::1::PUT::/Jefry78::{} 
+2/5/2021, 11:36:21 PM::6015936bf3b42a74a33a7a54::::1::PUT::/Jefry78::{} 
+2/5/2021, 11:39:35 PM::6015936bf3b42a74a33a7a54::::1::PUT::/Jefry78::{"name":"Katerine","email":"katy04@gmail.com"} 
+2/5/2021, 11:44:28 PM::6015936bf3b42a74a33a7a54::::1::PUT::/Jefry78::{"name":"","email":""} 
+2/5/2021, 11:50:36 PM::6015936bf3b42a74a33a7a54::::1::PUT::/Jefry78::{"name":"","email":""} 
+2/5/2021, 11:56:58 PM::6015936bf3b42a74a33a7a54::::1::PUT::/Jefry78::{"name":"","email":""} 
+2/6/2021, 12:01:12 AM::6015936bf3b42a74a33a7a54::::1::PUT::/Jefry78::{"name":"","email":""} 
+2/6/2021, 12:05:30 AM::6015936bf3b42a74a33a7a54::::1::PUT::/Jefry78::{"name":"","email":""} 
+2/6/2021, 12:10:43 AM::6015936bf3b42a74a33a7a54::::1::PUT::/Jefry78::{"name":"","email":""} 
+2/6/2021, 12:27:03 AM::6015936bf3b42a74a33a7a54::::1::PUT::/Jefry78::{"name":"","email":""} 
+2/6/2021, 12:36:57 AM::6015936bf3b42a74a33a7a54::::1::PUT::/Jefry78::{"name":"Marco","email":""} 
+2/6/2021, 12:42:37 AM::6015936bf3b42a74a33a7a54::::1::PUT::/Jefry78::{"name":"Marco","email":"jefry04@gmail.com"} 
+2/6/2021, 12:43:56 AM::6015936bf3b42a74a33a7a54::::1::PUT::/Jefry78::{"name":"Jefferson","email":"MICHELLE4@gmail.com"} 
+2/6/2021, 12:47:19 AM::6015936bf3b42a74a33a7a54::::1::PUT::/Jefry78::{"name":"MARCO","email":"Katy4@gmail.com"} 
+2/6/2021, 9:50:27 AM::6015936bf3b42a74a33a7a54::::1::POST::/comments::{"id":"6019f9223eb77252f461ef92","comment":"segundo comentario"} 
+2/6/2021, 9:50:38 AM::6015936bf3b42a74a33a7a54::::1::POST::/comments::{"id":"6019f9143eb77252f461ef91","comment":"Otro comentario"} 
+2/6/2021, 9:51:10 AM::6015936bf3b42a74a33a7a54::::1::PUT::/Jefry78::{"name":"Michelle","email":"Miche4@gmail.com"} 

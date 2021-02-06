@@ -13,7 +13,7 @@ const login = (req, res) => {
       const findUser = bcrypt.compareSync(password, user.password);
       if (findUser) {
         const id = user._id;
-        const token = jwt.sign({ id }, config.jwtKey, {
+        const token = jwt.sign({ id, username }, config.jwtKey, {
           expiresIn: config.jwtExp,
         });
         const { name, email } = user;
@@ -106,10 +106,10 @@ const update = (req, res) => {
       res.json(response(false, undefined, err));
     });
 };
-
+//le adicione EMAIL
 const readOne = (req, res) => {
   const username = req.params.username;
-  User.find({ username: username }, ['name', 'username'])
+  User.find({ username: username }, ['name', 'username', 'email'])
     .then((users) => {
       res.json(response(true, users));
     })
