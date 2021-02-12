@@ -31,13 +31,14 @@ const getTweets = (req, res) => {
 };
 
 const newComment = (req, res) => {
-  if (req.body.comment.length > 0) {
-    const id = req.body.id;
-    const comment = {
-      comment: req.body.comment,
-      user: req.id,
+  const { id: user } = req;
+  const { comment, id } = req.body;
+  if (comment.length > 0) {
+    const comments = {
+      comment,
+      user,
     };
-    Tweet.updateOne({ _id: id }, { $addToSet: { comments: comment } })
+    Tweet.updateOne({ _id: id }, { $addToSet: { comments } })
       .then((tweets) => {
         res.status(200).json(response(true, tweets));
       })
